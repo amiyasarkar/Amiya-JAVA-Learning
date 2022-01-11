@@ -25,7 +25,7 @@
 public class AmiyaSarkar {
 	
 	public static void main (String[] args) {
-		while(true){
+		while(false){
 		System.out.println("Amiya Sarkar");
 	}
 	}
